@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshgithub9
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms and Low level design
 - 💞️ I’m looking to a job profile of software development engineer 1
 - 📫 You can reach me through my gmail charanganesh789@gmail.com
 
