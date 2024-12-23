@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ganeshgithub9
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Data Structures and Algorithms and Low level design
-- 💞️ I’m looking to a job profile of software development engineer 1
+- 👀 I build software applications
+- 🌱 I love solving problems using Data Structures and Algorithms.
+-  My skills also include designing low-level code and architecting distributed systems
+- 💞️ I’m looking to a job profile of software development engineer 2
 - 📫 You can reach me through my gmail charanganesh789@gmail.com
 
 <!---
